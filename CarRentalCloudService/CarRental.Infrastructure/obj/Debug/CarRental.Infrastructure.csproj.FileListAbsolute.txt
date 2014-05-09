@@ -1,0 +1,15 @@
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\CarRental.Infrastructure.dll
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\CarRental.Infrastructure.pdb
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\CarRental.DataModel.Infrastucture.dll
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\CarRental.DataModel.Infrastucture.pdb
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\obj\Debug\CarRental.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\obj\Debug\CarRental.Infrastructure.dll
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRental.Infrastructure\obj\Debug\CarRental.Infrastructure.pdb

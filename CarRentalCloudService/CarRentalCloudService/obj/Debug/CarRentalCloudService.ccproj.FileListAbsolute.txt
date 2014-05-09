@@ -1,0 +1,2 @@
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRentalCloudService\bin\Debug\ServiceConfiguration.cscfg
+D:\Depot\Tesco\guide\CarRentalCloudService\CarRentalCloudService\bin\Debug\ServiceDefinition.csdef
